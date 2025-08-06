@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Cześć!  
+**Wojciech Stochmal**
 
-<!--
-**WStochmal/wstochmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Portfolio**: [https://wstochmal.github.io](https://wstochmal.github.io)
 
-Here are some ideas to get you started:
+💡 **Interesuję się**: 🖥️ informatyką, ⚙️ technologią, 🕹️ grami i 📚 czytaniem książek  
+🧪 **Próbowałem**: C, C++, C#, React Native  
+⚙️ **Często używam**: React, JavaScript, TypeScript, Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Na tym profilu znajdują się głównie projekty realizowane w ramach studiów.
+
+---
+
+# 👋 Hi!  
+**Wojciech Stochmal**
+
+🌐 **Portfolio**: [https://wstochmal.github.io](https://wstochmal.github.io)
+
+💡 **I'm interested in**: 🖥️ IT, ⚙️ technology, 🕹️ gaming, and 📚 reading books  
+🧪 **I've tried**: C, C++, C#, React Native  
+⚙️ **I frequently use**: React, JavaScript, TypeScript, Java  
+
+This profile mainly contains projects developed during my university studies.
